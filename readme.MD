@@ -26,15 +26,9 @@ This project demonstrates end-to-end machine learning workflow: data preprocessi
 
 ---
 
-## 📂 Project Structure
-├── face_model.py          # Model creation and training ├── preprocess.py          # Image preprocessing utilities ├── attendance.py          # Attendance marking logic ├── train.py               # Training script ├── inference.py           # Prediction script ├── README.md              # Project documentation
-
-
-
-
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/your-username/face-attendance-system.git
+git clone https://github.com/tapas-kumar-shety/attendance-by-face.git
 cd face-attendance-system
 pip install -r requirements.txt
 ```
