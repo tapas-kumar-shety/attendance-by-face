@@ -37,6 +37,7 @@ This project demonstrates end-to-end machine learning workflow: data preprocessi
 git clone https://github.com/your-username/face-attendance-system.git
 cd face-attendance-system
 pip install -r requirements.txt
+```
 
 ## Inference
 
